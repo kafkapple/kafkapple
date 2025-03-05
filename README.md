@@ -1,5 +1,9 @@
 ## Hi 👋 This is Joon
 
+- 🔭 I’m currently working on LLM based emotion recognition
+- 🌱 I’m currently learning ML
+
+  
 <!--
 **kafkapple/kafkapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
