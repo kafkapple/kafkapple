@@ -1,20 +1,13 @@
-## Hi 👋 This is Joon
+## A Brain-Inspired Cognitive Architect: Building AI for Human-Level Intelligence.
 
-- 🔭 Research Interest
-  - Compositional Generalization
-- 🌱 I’m currently working on LLM based emotion recognition
+My research goal is to solve fundamental challenges in modern AI—systematic generalization and data-efficient continual learning—by engineering a novel cognitive architecture inspired by first principles of brain function.
 
-<!--
-**kafkapple/kafkapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I aim to build autonomous agents that robustly understand and reason about the world by integrating three core mechanisms: 
 
-Here are some ideas to get you started:
+(1) disentangled, object-centric perception of the environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(2) hierarchical world model formation via memory consolidation
+
+(3) adaptive meta-control for reasoning and planning
+
+My unique strength lies in bridging a decade of research in cognitive neuroscience with hands-on engineering skills in deep learning. This background provides a direct path to implement these neuro-inspired principles not as metaphors, but as concrete computational systems. I believe this approach can contribute significantly to developing advanced machine perception and building the foundations for true embodied cognition.
